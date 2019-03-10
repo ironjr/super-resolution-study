@@ -1,0 +1,10 @@
+{
+  "schedule": [
+    {
+      "mode": "train",
+      "label": "test-run",
+      "lr": 0.1,
+      "num_epochs": 10
+    }
+  ]
+}
